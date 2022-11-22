@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?Roboto:wght@900&family=Amatic+SC:wght@700&family=Work+Sans:wght@400;600&display=swap');
+
+body {
+  background-color: #f8fef0
+}
+
+.background-image {
+  min-height: 100%;
+  height: 100vh;
+  position: relative;
+  background-image: url(./assets/images/bg.jpg);
+  background-size: cover;
+  background-position: top;
+}
+
+.overlay {
+  position: absolute;
+  top:0; right:0; bottom:0; left:0;
+  z-index: 0;
+  transition: background-color .5s ease-in-out;
+}
+
+.home {
+  background-color: rgba(0,0,0,0);
+}
+
+.content {
+  z-index: 1;
+  position: relative;
+}
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+}
+
+h2, h3, h4 {
+  font-family: 'Roboto', sans-serif;
+}
+
+p, a {
+  font-family: 'Work Sans', sans-serif;
+}

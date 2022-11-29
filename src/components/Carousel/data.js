@@ -1,11 +1,19 @@
 import budget from '../../assets/images/budget.jpg';
 import whatstheword from '../../assets/images/whatstheword.jpg';
-import codequiz from '../../assets/images/codequiz.jpg';
+import ezdossier from '../../assets/images/ezdossier.jpg';
 import weather from '../../assets/images/weather.jpg';
 import texteditor from '../../assets/images/texteditor.png';
 import generator from '../../assets/images/generator.jpg';
 
 export const slideData = [
+  {
+    name: "EZ Dossier",
+    techUsed: "MERN STACK",
+    deployUrl: "https://github.com/ConstantMotion1/EZDossier",
+    repoUrl: "https://ezdossier.herokuapp.com/",
+    image: ezdossier,
+    description: "EZ Dossier is a portfolio maker for users to create a beautiful portfolio and land their first job."
+  },
   {
     name: "budget",
     techUsed: "MongoDB/Express/Node",
@@ -21,14 +29,6 @@ export const slideData = [
     repoUrl: "https://github.com/sagirikenaga/whats-the-word",
     image: whatstheword,
     description: "A spinoff on the popular game named Wordle."
-  },
-  {
-    name: "Code Quiz",
-    techUsed: "JS/CSS/HTML",
-    deployUrl: "https://jwiz9.github.io/general-dolphin/",
-    repoUrl: "https://github.com/jwiz9/general-dolphin",
-    image: codequiz,
-    description: "A simple quiz website that tests you on HTML/CSS/JS questions."
   },
   {
     name: "Weather Tracking App",

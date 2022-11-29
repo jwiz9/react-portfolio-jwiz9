@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/react-portfolio-jwiz9/static/css/main.188d4549.css",
-    "main.js": "/react-portfolio-jwiz9/static/js/main.d641b884.js",
+    "main.js": "/react-portfolio-jwiz9/static/js/main.5d056352.js",
     "static/js/787.c39599ff.chunk.js": "/react-portfolio-jwiz9/static/js/787.c39599ff.chunk.js",
     "static/media/bg.jpg": "/react-portfolio-jwiz9/static/media/bg.b59678822bc8e3ce9ace.jpg",
     "pdf.worker.js": "/react-portfolio-jwiz9/fba171de7bad31878d85d80a4083a09d.js",
     "static/media/generator.jpg": "/react-portfolio-jwiz9/static/media/generator.1abee177d5bb3dfc6618.jpg",
     "static/media/weather.jpg": "/react-portfolio-jwiz9/static/media/weather.a36bd00c7bcdce66efcf.jpg",
-    "static/media/codequiz.jpg": "/react-portfolio-jwiz9/static/media/codequiz.1db34680548b3cfb5bbc.jpg",
     "static/media/resume.pdf": "/react-portfolio-jwiz9/static/media/resume.8d18e0a68daf08cfb4c4.pdf",
     "static/media/jordan-face.png": "/react-portfolio-jwiz9/static/media/jordan-face.0c68d8d09c8a45362564.png",
     "static/media/whatstheword.jpg": "/react-portfolio-jwiz9/static/media/whatstheword.62bba0d34da87adcc083.jpg",
+    "static/media/ezdossier.JPG": "/react-portfolio-jwiz9/static/media/ezdossier.bb10cd70b8c808b9d73b.JPG",
     "static/media/texteditor.png": "/react-portfolio-jwiz9/static/media/texteditor.d48ab64bfe17e363b90d.png",
     "index.html": "/react-portfolio-jwiz9/index.html",
     "main.188d4549.css.map": "/react-portfolio-jwiz9/static/css/main.188d4549.css.map",
-    "main.d641b884.js.map": "/react-portfolio-jwiz9/static/js/main.d641b884.js.map",
+    "main.5d056352.js.map": "/react-portfolio-jwiz9/static/js/main.5d056352.js.map",
     "787.c39599ff.chunk.js.map": "/react-portfolio-jwiz9/static/js/787.c39599ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.188d4549.css",
-    "static/js/main.d641b884.js"
+    "static/js/main.5d056352.js"
   ]
 }

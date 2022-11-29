@@ -1,6 +1,6 @@
 import budget from '../../assets/images/budget.jpg';
 import whatstheword from '../../assets/images/whatstheword.jpg';
-import ezdossier from '../../assets/images/ezdossier.jpg';
+import ezdossier from '../../assets/images/ezdossier.JPG';
 import weather from '../../assets/images/weather.jpg';
 import texteditor from '../../assets/images/texteditor.png';
 import generator from '../../assets/images/generator.jpg';
